@@ -8,7 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="40" height="40"/>&nbsp;
-![Статистика](https://github-profile-summary-cards.vercel.app/api/cards/stats?AnastasiaRyseva=vn7n24fzkq&theme=github_dark)
+##![Статистика](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?AnastasiaRyseva=vn7n24fzkq&theme=default))
 <!--
 **AnastasiaRyseva/AnastasiaRyseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
